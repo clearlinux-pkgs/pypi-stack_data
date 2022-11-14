@@ -1,5 +1,5 @@
 PKG_NAME := pypi-stack_data
-URL = https://files.pythonhosted.org/packages/ff/d0/9231ffa0d7b5a93ffaa45b35f06502812829c6429907384534ce1ff79ac4/stack_data-0.6.0.tar.gz
+URL = https://files.pythonhosted.org/packages/ac/64/2566177ef0a40ca565c230383b13673de6cffa71f75344cdadcff942cd6b/stack_data-0.6.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
