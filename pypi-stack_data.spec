@@ -5,7 +5,7 @@
 #
 Name     : pypi-stack_data
 Version  : 0.6.3
-Release  : 19
+Release  : 20
 URL      : https://files.pythonhosted.org/packages/28/e3/55dcc2cfbc3ca9c29519eb6884dd1415ecb53b0e934862d3559ddcb7e20b/stack_data-0.6.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/28/e3/55dcc2cfbc3ca9c29519eb6884dd1415ecb53b0e934862d3559ddcb7e20b/stack_data-0.6.3.tar.gz
 Summary  : Extract data from python stack frames and tracebacks for informative displays
